@@ -1,16 +1,3 @@
-vmess=ap1-hk.sanjijia.club:443, method=chacha20-poly1305, password=b6455f15-afe5-47c8-bfd8-71a11f0b9df3, fast-open=false, udp-relay=false, tag=vmess-0144
-
-vmess=ap1-hk.sanjijia.club:443, method=aes-128-gcm, password=b6455f15-afe5-47c8-bfd8-71a11f0b9df3, fast-open=false, udp-relay=false, tag=vmess-0244
-
-vmess=ap1-hk.sanjijia.club:443, method=chacha20-poly1305, password=b6455f15-afe5-47c8-bfd8-71a11f0b9df3, obfs=over-tls, fast-open=false, udp-relay=false, tag=vmess-tls44
-
-vmess=ap1-hk.sanjijia.club:443 method=chacha20-poly1305, password=b6455f15-afe5-47c8-bfd8-71a11f0b9df3, obfs=ws, obfs-uri=/ray, fast-open=false, udp-relay=false, tag=vmess-ws44
-
-vmess=ap1-hk.sanjijia.club:443, method=chacha20-poly1305, password=b6455f15-afe5-47c8-bfd8-71a11f0b9df3, obfs=wss, obfs-uri=/ray, fast-open=false, udp-relay=false, tag=vmess-ws-tls44
-
-vmess=ap1-hk.sanjijia.club:443, method=chacha20-poly1305, password=b6455f15-afe5-47c8-bfd8-71a11f0b9df3, obfs=ws, obfs-uri=/ray, fast-open=false, udp-relay=false, tag=一键连香港@2
-
-vmess=ap1-italy.sanjijia.club:443, method=chacha20-poly1305, password=b6455f15-afe5-47c8-bfd8-71a11f0b9df3, obfs=ws, obfs-uri=/ray, fast-open=false, udp-relay=false, tag=一键连意大利@2
 
 http=a1.ap.fastqvpn.com:29980, username= 288109025856323584, password= b6455f15-afe5-47c8-bfd8-71a11f0b9df3, over-tls=true, tls-verification=true,tls-host=a1.ap.fastqvpn.com, fast-open=false, udp-relay=false, tag=一键连@日本
 
