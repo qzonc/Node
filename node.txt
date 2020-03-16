@@ -2,9 +2,6 @@ vmess=ap1-hk.sanjijia.club:443, method=chacha20-ietf-poly1305, password=b6455f15
 vmess=ap1-italy.sanjijia.club:443, method=chacha20-ietf-poly1305, password=b6455f15-afe5-47c8-bfd8-71a11f0b9df3, obfs=wss, obfs-uri=/ray, tls-verification=true, fast-open=false, udp-relay=false, tag=一键连意大利—vmess
 
 http=a1.ap.fastqvpn.com:29980, username= 288109025856323584, password= b6455f15-afe5-47c8-bfd8-71a11f0b9df3, over-tls=true, tls-verification=true,tls-host=a1.ap.fastqvpn.com, fast-open=false, udp-relay=false, tag=一键连@日本
-
 http=a2.ap.fastqvpn.com:29980, username= 288109025856323584, password= b6455f15-afe5-47c8-bfd8-71a11f0b9df3, over-tls=true, tls-verification=true,tls-host=a1.ap.fastqvpn.com, fast-open=false, udp-relay=false, tag=一键连新加坡1
-
 http=a3.ap.fastqvpn.com:29980, username= 288109025856323584, password= b6455f15-afe5-47c8-bfd8-71a11f0b9df3, over-tls=true, tls-verification=true,tls-host=a1.ap.fastqvpn.com, fast-open=false, udp-relay=false, tag=一键连新加坡2
-
 http=a4.ap.fastqvpn.com:29980, username= 288109025856323584, password= b6455f15-afe5-47c8-bfd8-71a11f0b9df3, over-tls=true, tls-verification=true,tls-host=a1.ap.fastqvpn.com, fast-open=false, udp-relay=false, tag=一键连新加坡3
