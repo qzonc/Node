@@ -1,9 +1,3 @@
-http=106.52.127.72:19951, fast-open=false, udp-relay=false, tag=网易☁️1
-http=111.67.197.245:10086, username=, password=, fast-open=false, udp-relay=false, tag=网易☁️2
-shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com, fast-open=false, udp-relay=false, tag=网易☁️3
-http=106.52.127.72:19951, fast-open=false, udp-relay=false, tag=网易☁️4
-
-
 vmess=ap1-hk.sanjijia.club:443, method=chacha20-ietf-poly1305, password=b6455f15-afe5-47c8-bfd8-71a11f0b9df3, obfs=wss, obfs-uri=/ray, tls-verification=true, fast-open=false, udp-relay=false, tag=一键连香港—vmess
 vmess=ap1-italy.sanjijia.club:443, method=chacha20-ietf-poly1305, password=b6455f15-afe5-47c8-bfd8-71a11f0b9df3, obfs=wss, obfs-uri=/ray, tls-verification=true, fast-open=false, udp-relay=false, tag=一键连意大利—vmess
 
