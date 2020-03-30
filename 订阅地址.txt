@@ -1,0 +1,9 @@
+群免费节点订阅地址
+https://sub.bianyuan.xyz/sub?target=quanx&url=https%3A//api.sebs.club/v2ray/7130ffe8-2ec5-4bd3-9ebe-e04d92afb404&list=true&include=&exclude=&emoji=true&fdn=true
+
+一键连节点订阅地址
+https://raw.githubusercontent.com/qzonc/Node/master/node.txt
+
+直接添加到qx订阅即可
+
+
