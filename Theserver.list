@@ -1,6 +1,6 @@
-vmess=ap1-hk.sanjijia.club:443, method=chacha20-ietf-poly1305, password=b6455f15-afe5-47c8-bfd8-71a11f0b9df3, obfs=wss, obfs-uri=/ray, tls-verification=true, fast-open=false, udp-relay=false, tag=香港vmess
-vmess=ap1-italy.sanjijia.club:443, method=chacha20-ietf-poly1305, password=b6455f15-afe5-47c8-bfd8-71a11f0b9df3, obfs=wss, obfs-uri=/ray, tls-verification=true, fast-open=false, udp-relay=false, tag=意大利vmess
-http=a1.ap.fastqvpn.com:29980, username= 288109025856323584, password= b6455f15-afe5-47c8-bfd8-71a11f0b9df3, over-tls=true, tls-verification=true,tls-host=a1.ap.fastqvpn.com, fast-open=false, udp-relay=false, tag=日本
-http=a2.ap.fastqvpn.com:29980, username= 288109025856323584, password= b6455f15-afe5-47c8-bfd8-71a11f0b9df3, over-tls=true, tls-verification=true,tls-host=a1.ap.fastqvpn.com, fast-open=false, udp-relay=false, tag=新加坡1
-http=a3.ap.fastqvpn.com:29980, username= 288109025856323584, password= b6455f15-afe5-47c8-bfd8-71a11f0b9df3, over-tls=true, tls-verification=true,tls-host=a1.ap.fastqvpn.com, fast-open=false, udp-relay=false, tag=新加坡2
-http=a4.ap.fastqvpn.com:29980, username= 288109025856323584, password= b6455f15-afe5-47c8-bfd8-71a11f0b9df3, over-tls=true, tls-verification=true,tls-host=a1.ap.fastqvpn.com, fast-open=false, udp-relay=false, tag=新加坡3
+vmess=ap1-hk.sanjijia.club:443, method=chacha20-ietf-poly1305, password=b38df96f-1523-4d56-b49d-ce89e24b3d0d, obfs=wss, obfs-uri=/ray, tls-verification=true, fast-open=false, udp-relay=false, tag=香港vmess
+vmess=ap1-italy.sanjijia.club:443, method=chacha20-ietf-poly1305, password=b38df96f-1523-4d56-b49d-ce89e24b3d0d, obfs=wss, obfs-uri=/ray, tls-verification=true, fast-open=false, udp-relay=false, tag=意大利vmess
+http=a1.ap.fastqvpn.com:29980, username= 288109025856323584, password= b38df96f-1523-4d56-b49d-ce89e24b3d0d, over-tls=true, tls-verification=true,tls-host=a1.ap.fastqvpn.com, fast-open=false, udp-relay=false, tag=日本
+http=a2.ap.fastqvpn.com:29980, username= 288109025856323584, password= b38df96f-1523-4d56-b49d-ce89e24b3d0d, over-tls=true, tls-verification=true,tls-host=a1.ap.fastqvpn.com, fast-open=false, udp-relay=false, tag=新加坡1
+http=a3.ap.fastqvpn.com:29980, username= 288109025856323584, password= b38df96f-1523-4d56-b49d-ce89e24b3d0d, over-tls=true, tls-verification=true,tls-host=a1.ap.fastqvpn.com, fast-open=false, udp-relay=false, tag=新加坡2
+http=a4.ap.fastqvpn.com:29980, username= 288109025856323584, password= b38df96f-1523-4d56-b49d-ce89e24b3d0d, over-tls=true, tls-verification=true,tls-host=a1.ap.fastqvpn.com, fast-open=false, udp-relay=false, tag=新加坡3
